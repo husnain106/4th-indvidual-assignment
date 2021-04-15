@@ -1,0 +1,52 @@
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.sticky{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: black;
+    z-index: 1;
+}
+p{
+    color: blue;   
+    font-size: 20px;
+    padding-top: 100px;
+}
+#unordered{
+    float: left;
+    width: 110px;
+}
+#ordered{
+    width: 90px;
+    float: left;
+}
+#table{
+    width: 450px;
+    position: relative;
+    top: 110px;
+}
+#man{
+    width: 610px;
+    position: relative;
+}
+#label_man{
+    color:black;
+}
+#link{
+    color: black;
+    position: absolute;
+    top: 750px;
+}
+#saltbae{
+    position: absolute;
+    top: 900px;
+}
+#saltbaep{
+    position: absolute;
+    top: 1250px;
+}
